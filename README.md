@@ -2,7 +2,7 @@
 
 # Hi, I'm Buddhika Madusanka 👋
 
-**Associate Full-Stack AI Developer @ Healplace**
+**Associate Full-Stack AI Developer**
 
 *Software Engineering undergraduate at SLIIT · Building cost-efficient, production-grade AI systems*
 
