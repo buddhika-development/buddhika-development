@@ -2,14 +2,29 @@
 
 # Hi, I'm Buddhika Madusanka 👋
 
-**AI Engineer & Full-Stack Developer**
+**Associate Full-Stack AI Developer @ Healplace**
 
-*First-principles builder who asks "why" before writing code, treating AI as a pragmatic tool backed by deterministic guardrails, clean architecture and human ownership rather than hype.*
+*Software Engineering undergraduate at SLIIT · Building cost-efficient, production-grade AI systems*
 
+[![Website](https://img.shields.io/badge/Website-by--Buddhy-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://by-buddhy.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buddhika-madusanka-09bb34235)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@TechWithBuddhi)
 
 </div>
+
+---
+
+## 👨‍💻 Profile
+
+Associate AI & Full-Stack Software Developer and final-year Software Engineering undergraduate, experienced in designing end-to-end web applications and cost-efficient AI systems.
+
+- **Full stack:** type-safe frontends with React and Next.js, resilient APIs with Python (FastAPI) and TypeScript, and structured data layers with PostgreSQL, with code quality and security enforced through SonarQube and OWASP ZAP.
+- **AI engineering:** production chatbot architecture, RAG pipelines, and LLM cost optimization through prompt caching, semantic response caching and strict token budgeting to cut latency and API spend.
+- **Cloud:** taking software from local architecture to production using Docker, AWS (Bedrock, OpenSearch) and Google Cloud.
+
+> 🧠 **Engineering philosophy:** I'm a first-principles builder who asks "why" before writing code. I treat AI as a pragmatic tool, backed by deterministic guardrails, clean architecture and human ownership rather than hype.
+
+🌐 **Portfolio:** [by-buddhy.netlify.app](https://by-buddhy.netlify.app/)
 
 ---
 
@@ -86,7 +101,7 @@
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/buddhika-madusanka-09bb34235) · [YouTube: TechWithBuddhi](https://youtube.com/@TechWithBuddhi)
+[Website](https://by-buddhy.netlify.app/) · [LinkedIn](https://linkedin.com/in/buddhika-madusanka-09bb34235) · [YouTube: TechWithBuddhi](https://youtube.com/@TechWithBuddhi)
 
 <div align="center">
 
