@@ -4,7 +4,7 @@
 
 **Associate Full-Stack AI Developer**
 
-*Software Engineering undergraduate at SLIIT · Building cost-efficient, production-grade AI systems*
+*Building cost-efficient, production-grade AI | Software systems*
 
 [![Website](https://img.shields.io/badge/Website-by--Buddhy-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://by-buddhy.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buddhika-madusanka-09bb34235)
